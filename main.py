@@ -13,3 +13,4 @@ def strcounter(s):
     for sym,count in syms_counter.items():
         print(sym,count)
 strcounter('gdfdfgg')
+print (26353672782)
