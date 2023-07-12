@@ -3,4 +3,5 @@ def palindrom(s):
         print(True)
     else:
         print(False)
-palindrom("abba")
+palindrom("лепсспел")
+palindrom("helloworld")
